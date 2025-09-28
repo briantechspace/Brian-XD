@@ -12,7 +12,7 @@ module.exports = {
     PREFIX: process.env.PREFIX || ".",
     // add your prefix for bot
 
-    BOT_NAME: process.env.BOT_NAME || "ʟɪᴛᴇ-xᴅ",
+    BOT_NAME: process.env.BOT_NAME || "Brian MD",
     // add bot name here for menu
 
     MODE: process.env.MODE || "public",
@@ -20,32 +20,32 @@ module.exports = {
 
     LINK_WHITELIST: "youtube.com,github.com",
 
-    LINK_WARN_LIMIT: 3, // Number of warnings before action
+    LINK_WARN_LIMIT: 4, // Number of warnings before action
 
     LINK_ACTION: "kick", // "kick", "mute", or "none"
 
     AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
     // make true or false status auto seen
 
-    AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
+    AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
     // make true if you want auto reply on status 
 
     AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
     // make true if you want auto reply on status 
 
-    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY MALVIN XD 😆*",
+    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY Brian MD 😉*",
     // set the auto reply message on status reply  
 
     WELCOME: process.env.WELCOME || "true",
     // true if want welcome and goodbye msg in groups 
 
-    ADMIN_EVENTS: process.env.ADMIN_EVENTS || "false",
+    ADMIN_EVENTS: process.env.ADMIN_EVENTS || "true",
     // make true to know who dismiss or promoted a member in group
 
     ANTI_LINK: process.env.ANTI_LINK || "true",
     // make anti link true,false for groups 
 
-    MENTION_REPLY: process.env.MENTION_REPLY || "false",
+    MENTION_REPLY: process.env.MENTION_REPLY || "true",
     // make true if want auto voice reply if someone mention you 
 
     MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/lm4a0b.jpg",
@@ -61,31 +61,31 @@ module.exports = {
 
 *© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ*
 
-> ɢɪᴛʜᴜʙ : github.com/XdKing2/LITE-XD`,
+> ɢɪᴛʜᴜʙ : github.com/briantechspace/Brian MD`,
     // add alive msg here 
 
-    STICKER_NAME: process.env.STICKER_NAME || "ᴍᴀʟᴠɪɴ-xᴅ",
+    STICKER_NAME: process.env.STICKER_NAME || "Mushkilla 😏",
     // type sticker pack name 
 
-    CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
+    CUSTOM_REACT: process.env.CUSTOM_REACT || "true",
     // make this true for custom emoji react  
 
     CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,💛,💚,💙,💜,🤎,🖤,🤍",
     // choose custom react emojis by yourself 
 
-    DELETE_LINKS: process.env.DELETE_LINKS || "false",
+    DELETE_LINKS: process.env.DELETE_LINKS || "true",
     // automatic delete links without removing member 
 
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "26371475XXXX",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "254768116434",
     // add your bot owner number
 
-    OWNER_NAME: process.env.OWNER_NAME || "ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ",
+    OWNER_NAME: process.env.OWNER_NAME || "Brian",
     // add bot owner name
 
-    DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ*",
+    DESCRIPTION: process.env.DESCRIPTION || "*© Brian MD Welcome to my space*",
     // add bot owner description  
 
-    READ_MESSAGE: process.env.READ_MESSAGE || "false",
+    READ_MESSAGE: process.env.READ_MESSAGE || "true",
     // Turn true or false for automatic read msgs
 
     AUTO_REACT: process.env.AUTO_REACT || "false",
@@ -94,7 +94,7 @@ module.exports = {
     ANTI_BAD: process.env.ANTI_BAD || "false",
     // false or true for anti bad words  
 
-    ANTI_LINK_KICK: process.env.ANTI_LINK_KICK || "false",
+    ANTI_LINK_KICK: process.env.ANTI_LINK_KICK || "true",
     // make anti link true,false for groups 
 
     AUTO_STICKER: process.env.AUTO_STICKER || "false",
@@ -115,7 +115,7 @@ module.exports = {
     READ_CMD: process.env.READ_CMD || "false",
     // true if want mark commands as read  
 
-    DEV: process.env.DEV || "263780166288",
+    DEV: process.env.DEV || "254768116434",
     // replace with your whatsapp number  
 
     ANTI_VV: process.env.ANTI_VV || "true",
@@ -135,7 +135,7 @@ module.exports = {
 *ᴋᴇᴇᴘ ᴏɴ ᴜsɪɴɢ ᴍᴀʟᴠɪɴ ᴍᴏᴅs🚩* 
 
 > sᴜʙsᴄʀɪʙᴇ ʏᴛ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴛᴜᴛᴏʀɪᴀʟs
-https://youtube.com/@malvintech2
+https://youtubefal@malvintech2
 
 - *ʏᴏᴜʀ ʙᴏᴛ ᴘʀᴇғɪx: ➡️[ . ]*
 > - ʏᴏᴜ ᴄᴀɴ ᴄʜᴀɴɢᴇ ᴜʀ ᴘʀᴇғɪx ᴜsɪɴɢ ᴛʜᴇ .ᴘʀᴇғɪx ᴄᴏᴍᴍᴀɴᴅ
