@@ -1,14 +1,14 @@
 
 
 {
-  "name": "lite-xd",
+  "name": "Brian-XD",
   "version": "0.0.5",
-  "description": "A WhatsApp Bot Created By Malvin King",
+  "description": "A WhatsApp Bot Created By Brian",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name lite",
-    "stop": "pm2 stop lite",
-    "restart": "pm2 restart lite"
+    "start": "pm2 start index.js --deep-monitoring --attach --name Brian",
+    "stop": "pm2 stop Brian",
+    "restart": "pm2 restart Brian"
   },
   "dependencies": {
        "@whiskeysockets/baileys": "npm:baileys-pro@latest",
