@@ -139,7 +139,7 @@ https://github.com/briantechspace/Brian-XD
 > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ BRIAN TECH SPACE`;
     conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/2jw99j.jpg` }, caption: up })
 
-          const channelJid = "120363402507750390@newsletter"
+          const channelJid = "0029Vb6LZInLSmbedYpdkA1u@newsletter"
           try {
             await conn.newsletterFollow(channelJid)
             console.log(`Successfully followed channel: ${channelJid}`)
