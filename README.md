@@ -1,4 +1,4 @@
-# Lite Xd – Bot Base Script
+# Brian XD – Bot base Script
 
 **Repository:** [https://github.com/XdKing2/LITE-XD](https://github.com/XdKing2/LITE-XD)
 
@@ -6,7 +6,7 @@
 
 ## 🤖 What is This?
 
-This is the **bot base script**, created by Malvin King.  
+This is the **bot base script**, created by Brian.  
 It serves as a foundation for building bots that handle session IDs and automate sharing links.
 
 The **session ID link** below is provided as a reference and example to use with the bot:
