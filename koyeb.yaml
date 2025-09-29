@@ -1,6 +1,6 @@
-name: lite-xd
+name: Brian-XD
 services:
-  - name: lite-xd-service
+  - name: Brian-XD-service
     type: web
     ports:
       - 5000
