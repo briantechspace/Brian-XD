@@ -51,7 +51,7 @@ module.exports = {
     MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/p528u3.jpg",
     // add custom menu and mention reply image url
 
-    ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/lm4a0b.jpg",
+    ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/svi8gi.jpg",
     // add img for alive msg
 
     LIVE_MSG: process.env.LIVE_MSG || 
