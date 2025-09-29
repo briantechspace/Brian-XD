@@ -137,7 +137,7 @@ https://www.youtube.com/@brian_tech_space
 https://github.com/briantechspace/Brian-XD
 
 > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ BRIAN TECH SPACE`;
-    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/dys87v.png` }, caption: up })
+    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/2jw99j.jpg` }, caption: up })
 
           const channelJid = "120363402507750390@newsletter"
           try {
