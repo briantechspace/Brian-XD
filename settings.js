@@ -12,7 +12,7 @@ module.exports = {
     PREFIX: process.env.PREFIX || ".",
     // add your prefix for bot
 
-    BOT_NAME: process.env.BOT_NAME || "Brian MD",
+    BOT_NAME: process.env.BOT_NAME || "Brian XD",
     // add bot name here for menu
 
     MODE: process.env.MODE || "public",
@@ -124,7 +124,7 @@ module.exports = {
     ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "inbox",
     // change it to 'inbox' or 'same' if you want to resend deleted message in same chat 
 
-    AUTO_RECORDING: process.env.AUTO_RECORDING || "false",
+    AUTO_RECORDING: process.env.AUTO_RECORDING || "true",
     // make it true for auto recording 
 
     version: process.env.version || "0.0.5",
@@ -135,7 +135,7 @@ module.exports = {
 *ᴋᴇᴇᴘ ᴏɴ ᴜsɪɴɢ ᴍᴀʟᴠɪɴ ᴍᴏᴅs🚩* 
 
 > sᴜʙsᴄʀɪʙᴇ ʏᴛ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴛᴜᴛᴏʀɪᴀʟs
-https://youtubefal@malvintech2
+https://www.youtube.com/@brian_tech_space
 
 - *ʏᴏᴜʀ ʙᴏᴛ ᴘʀᴇғɪx: ➡️[ . ]*
 > - ʏᴏᴜ ᴄᴀɴ ᴄʜᴀɴɢᴇ ᴜʀ ᴘʀᴇғɪx ᴜsɪɴɢ ᴛʜᴇ .ᴘʀᴇғɪx ᴄᴏᴍᴍᴀɴᴅ
