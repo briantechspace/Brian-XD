@@ -16,13 +16,13 @@ async (conn, mek, m, { from, q, reply, sender }) => {
         // ✅ Create fake verified contact
         const vcard = `BEGIN:VCARD
 VERSION:3.0
-FN:TREND-X Official ✅
+FN:BRIAN-XD Official ✅
 TEL;waid=${sender.split('@')[0]}:${sender.split('@')[0]}
 END:VCARD`;
 
         const fakeContact = await conn.sendMessage(from, {
             contacts: {
-                displayName: "TREND-X Official ✅",
+                displayName: "BRIAN-XD Official ✅",
                 contacts: [{ vcard }]
             }
         });
@@ -45,7 +45,7 @@ END:VCARD`;
 > 💨 *Wind:* ${data.wind.speed} m/s  
 > 📊 *Pressure:* ${data.main.pressure} hPa  
 
-> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ TREND-X ᴛᴇᴄʜ*
+> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ BRIAN-XD ᴛᴇᴄʜ*
 `;
 
         await conn.sendMessage(from, {
