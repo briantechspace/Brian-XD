@@ -14,13 +14,13 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
     try {
         let dec = `*╭───❍SUPPORT🥹🫡❍*
 ‎*├⬡ .ᴍᴘᴇsᴀ*
-‎*├⬡ .254110081982*
+‎*├⬡ .254796804535*
 ‎*╰───────────────❍*`;
 
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/adymbp.jpg` },
+                image: { url: `https://files.catbox.moe/unxub3.png` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
