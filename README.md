@@ -1,6 +1,6 @@
 # Brian XD – Bot base Script
 
-**Repository:** [https://github.com/XdKing2/LITE-XD](https://github.com/XdKing2/LITE-XD)
+**Repository:** [https://github.com/briantechspace/Brian-XD](https://github.com/briantechspace/Brian-XD)
 
 ---
 
