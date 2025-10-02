@@ -29,7 +29,7 @@ cmd({
             return reply("Failed to fetch the video. Please try again later.");
         }
         
-        let ytmsg = `╔═══〔 *𓆩ု᪳TREND-𝐗ှ᪳𓆪* 〕═══❒
+        let ytmsg = `╔═══〔 *𓆩ု᪳BRIAN-XD𝐗ှ᪳𓆪* 〕═══❒
 ║╭───────────────◆  
 ║│ *❍ ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ*
 ║╰───────────────◆
@@ -54,7 +54,7 @@ cmd({
             document: { url: data.result.download_url }, 
             mimetype: "video/mp4", 
             fileName: `${data.result.title}.mp4`, 
-            caption: `*${yts.title}*\n> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ TREND-X🎐*`
+            caption: `*${yts.title}*\n> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ BRIAN-XD🎐*`
         }, { quoted: mek });
 
     } catch (e) {
@@ -90,9 +90,9 @@ const yt = await ytsearch(q);
         return reply("Failed to fetch the audio. Please try again later.");
     }
     
-    let ytmsg = `╔═══〔 *𓆩ု᪳TREND-𝐗ှ᪳𓆪* 〕═══❒
+    let ytmsg = `╔═══〔 *𓆩ု᪳BRIAN-XD𝐗ှ᪳𓆪* 〕═══❒
 ║╭───────────────◆  
-║│ *TREND X 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐈𝐍𝐆*
+║│ *BRIAN XD 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐈𝐍𝐆*
 ║╰───────────────◆
 ╚══════════════════❒
 ╔══════════════════❒
@@ -117,7 +117,7 @@ const yt = await ytsearch(q);
         document: { url: data.result.downloadUrl }, 
         mimetype: "audio/mpeg", 
         fileName: `${data.result.title}.mp3`, 
-        caption: `> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ TREND-X🎐*`
+        caption: `> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ BRIAN-XD🎐*`
     }, { quoted: mek });
 
 } catch (e) {
