@@ -1,7 +1,7 @@
 {
   "name": "Brian-XD",
   "description": "Javascript WhatsApp bot made by  Brian",
-  "logo": "https://files.catbox.moe/svi8gi.jpg",
+  "logo": "https://files.catbox.moe/unxub3.png",
   "keywords": ["Brian-XD","BRIAN TECH SPACE"],
   "success_url": "/",
 
@@ -9,7 +9,7 @@
   "env": {
     "SESSION_ID": {
       "description": "Must Start with 'Brian~'",
-      "required": true,
+      "required": false,
       "value": ""
     },
       "BOT_NAME": {
