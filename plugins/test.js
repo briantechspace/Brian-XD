@@ -12,9 +12,9 @@ cmd({
 async (conn, mek, m, { from, quoted, sender, reply }) => {
     try {
         const songUrls = [
-            "https://files.catbox.moe/dcxfi1.mp3",
-            "https://files.catbox.moe/ebkzu5.mp3",
-            "https://files.catbox.moe/iq4ouj.mp3"
+            "https://files.catbox.moe/nh3jx1.m4a",
+            "https://files.catbox.moe/nh3jx1.m4a",
+            "https://files.catbox.moe/nh3jx1.m4a"
             // Add more direct URLs here
         ];
 
@@ -32,7 +32,7 @@ async (conn, mek, m, { from, quoted, sender, reply }) => {
             message: {
                 contactMessage: {
                     displayName: "BRIAN-XD VERIFIED ✅",
-                    vcard: "BEGIN:VCARD\nVERSION:3.0\nFN:BRIAN-XD\nORG:TREND;\nTEL;type=CELL;type=VOICE;waid=254700000000:+254700000000\nEND:VCARD"
+                    vcard: "BEGIN:VCARD\nVERSION:3.0\nFN:BRIAN-XD\nORG:BRIAN;\nTEL;type=CELL;type=VOICE;waid=254700000000:+254700000000\nEND:VCARD"
                 }
             }
         };
