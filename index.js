@@ -67,7 +67,7 @@ const {
   //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/sessions/creds.json')) {
 if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
-const sessdata = config.SESSION_ID.replace("sir bravin~", '');
+const sessdata = config.SESSION_ID.replace("brian~", '');
 const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
@@ -118,13 +118,13 @@ const port = process.env.PORT || 9090;
 ├─▸ *Simplicity. Speed. Power. BY sir bravin|*  
 ╰─➤ *Your New WhatsApp Sidekick is Here!*
 
-*❤️ Thank you for Choosing whatsapp xmd!*
+*❤️ Thank you for Choosing brian xmd!*
 
 ╭──〔 🔗 *Quick Links* 〕  
 ├─ 📢 *Join Our Channel:*  
-│   Click [**Here**](https://whatsapp.com/channel/0029VbB4nox4Y9lqVl2X8n3m) to join!  
+│   Click [**Here**](https://whatsapp.com/channel/0029VbC173IDDmFVlhcSOZ0Q) to join!  
 ├─ ⭐ *Give Us a Star:*  
-│   Star Us [**Here**](https://github.com/whatsapp-bot254/whatsapp-xmd)!  
+│   Star Us [**Here**](https://github.com/briantechspace/Brian-XD)!  
 ╰─🛠️ *Prefix:* \`${prefix}\`
 
 > _© 𝙼𝙰𝙳𝙴 𝙱𝚈 sir bravin  _`;
