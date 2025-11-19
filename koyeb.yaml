@@ -1,6 +1,6 @@
-name: whatsapp xmd
+name: brian-xd
 services:
-  - name: whatsapp-xmd-service
+  - name: brian-xd-service
     type: web
     ports:
       - 5000
