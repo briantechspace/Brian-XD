@@ -99,11 +99,11 @@ jobs:
 ### Thank You Dear
 
 > DEVELOPER OF BRIAN-XD 
-- [BRIAN ](https://github.com/trendex2030)
+- [BRIAN ](https://github.com/briantechspace)
 - Creater and Owner Of BRIAN-XD
 
 > BRIAN-XD Helper
-- [BRIAN](https://github.com/briantechspace)
+- [BRIAN](https://github.com/trendex2030)
 - For helping in bot plugin files.
 ---
 <a><img src='https://i.imgur.com/LyHic3i.gif'/># BRIAN-XD
