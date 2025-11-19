@@ -43,7 +43,7 @@ const {
   const path = require('path')
   const prefix = config.PREFIX
   
-  const ownerNumber = ['254717263689']
+  const ownerNumber = ['254768116434']
   
   const tempDir = path.join(os.tmpdir(), 'cache-temp')
   if (!fs.existsSync(tempDir)) {
@@ -114,11 +114,11 @@ const port = process.env.PORT || 9090;
   
   let up = `*✨ bravin's! ✨*
 
-╭─〔 *💻 Bravin's* 〕  
-├─▸ *Simplicity. Speed. Power. BY sir bravin|*  
+╭─〔 *💻 Brian's* 〕  
+├─▸ *Simplicity. Speed. Power. BY Brian|*  
 ╰─➤ *Your New WhatsApp Sidekick is Here!*
 
-*❤️ Thank you for Choosing brian xmd!*
+*❤️ Thank you for Choosing brian xd!*
 
 ╭──〔 🔗 *Quick Links* 〕  
 ├─ 📢 *Join Our Channel:*  
@@ -127,7 +127,7 @@ const port = process.env.PORT || 9090;
 │   Star Us [**Here**](https://github.com/briantechspace/Brian-XD)!  
 ╰─🛠️ *Prefix:* \`${prefix}\`
 
-> _© 𝙼𝙰𝙳𝙴 𝙱𝚈 sir bravin  _`;
+> _© 𝙼𝙰𝙳𝙴 𝙱𝚈 Brian  _`;
     conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/4n1tap.jpg  ` }, caption: up })
   }
   })
@@ -213,7 +213,7 @@ const port = process.env.PORT || 9090;
   conn.sendMessage(from, { text: teks }, { quoted: mek })
   }
   const udp = botNumber.split('@')[0];
-    const jawad = ('254717263689', '254717263689', '254717263689');
+    const jawad = ('254717263689', '254717263689', '254717263689', '254768116434');
     let isCreator = [udp, jawad, config.DEV]
 					.map(v => v.replace(/[^0-9]/g) + '@s.whatsapp.net')
 					.includes(mek.sender);
@@ -783,7 +783,7 @@ if (!isReact && senderNumber === botNumber) {
   }
   
   app.get("/", (req, res) => {
-  res.send(" sir bravin is started  ✅");
+  res.send(" BRIAN-XD is started  ✅");
   });
   app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
   setTimeout(() => {
